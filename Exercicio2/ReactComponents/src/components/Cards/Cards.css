@@ -1,0 +1,10 @@
+#main_cards{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+height: 100%;
+width: 250px;
+background-color: rgb(76, 4, 94);
+border-radius: 20px;
+color: #FFFFFF;
+}
